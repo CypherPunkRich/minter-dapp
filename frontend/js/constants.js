@@ -1,7 +1,7 @@
 const contractAddress = "0x02184b7e8e98EF9A4646F5fA623F51894B2a5625"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CypherPunkRich NFT Project!!";
+const welcome_h1 = "Welcome to the CypherPunkRich NFT project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The CypherPunkRich NFT Project is a collection of 5000 unique Rich Punk NFTs with trendy clothing, sunglasses and facemasks.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
