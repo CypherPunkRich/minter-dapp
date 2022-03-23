@@ -1,5 +1,5 @@
-const contractAddress = "0x02184b7e8e98EF9A4646F5fA623F51894B2a5625"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xD0343F90F3e3e28d5ea2178EEC10ee5Ec3384A9F"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the CypherPunkRich NFT project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
